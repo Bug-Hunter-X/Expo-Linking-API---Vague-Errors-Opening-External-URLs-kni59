@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Linking` API to open a URL in a different app.  The error message is often vague and unhelpful, sometimes simply stating that the URL couldn't be opened, without specifics.  The underlying issue is often related to how the external app handles the URL scheme, or if it is even installed on the device.
