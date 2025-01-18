@@ -1,0 +1,1 @@
+This repository demonstrates a bug and its solution related to using Expo's Linking API to open URLs in external applications. The bug is characterized by vague error messages when the URL fails to open.  The solution provides techniques for more robust error handling and debugging.
